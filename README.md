@@ -1,6 +1,6 @@
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDwmUNq7SglZ1tum81yxdFKJVA9NVwOonNkFq1zwa1g&s)
 
-# Coleção de Moda LAB
+# LAB-Clothing-Collection
 
 O projeto denominado **Coleção de Moda LAB** é um software que permite a gestão de coleções de moda no setor de vestuário. Com uma abordagem moderna e tecnológica, esse projeto foi desenvolvido utilizando C# 7 com o framework .NET Core 7, combinado com o banco de dados SQL Server e a arquitetura MVC.
 
@@ -37,7 +37,7 @@ Se você deseja executar o projeto em sua máquina local, siga as instruções a
 
 ## Conclusão
 
-O projeto **Coleção de Moda LAB** foi desenvolvido com tecnologias avançadas, como C# 7 com o framework .NET Core 7 e SQL Server, visando oferecer uma solução robusta e eficiente para a gestão de coleções de moda. Esperamos que essa aplicação traga benefícios significativos para você e sua equipe.
+O projeto **Coleção de Moda LAB** foi desenvolvido com tecnologias avançadas, como C# 7 com o framework .NET Core 7 e SQL Server, visando oferecer uma solução robusta e eficiente para a gestão de coleções de moda. Esperamos que essa aplicação traga benefícios significativos para você e sua equipe. O projeto possui funcionalidades implementadas, porém algumas melhorias podem ser feitas. Recomenda-se refatorar o código para melhorar a organização, implementar validações robustas para garantir a integridade dos dados e otimizar o desempenho do sistema para uma melhor experiência do usuário.
 
 
 
