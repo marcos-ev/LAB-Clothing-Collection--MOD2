@@ -21,7 +21,7 @@ Se você deseja executar o projeto em sua máquina local, siga as instruções a
 
 ### 2. Faça o clone do repositório do projeto para o seu ambiente de desenvolvimento.
 
-### 3. Abra o projeto em sua IDE favorita, como o Visual Studio.
+### 3. Abra o projeto com o Visual Studio de preferencia .
 
 ### 4. Certifique-se de que todas as dependências do projeto estejam instaladas. Caso necessário, utilize o NuGet Package Manager para instalá-las.
 
